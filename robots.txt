@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you.html
+
+Sitemap: https://rowzaislamrifa.github.io/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
